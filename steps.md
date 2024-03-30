@@ -7,6 +7,5 @@ Determine needs
 In order to see live changes to the code while I work on the HTML/CSS, 
 I look for a package that lets me view live changes.
 
-I discover Hugo handles this and makes content changes in the future easier.
-
-I `npm install hugo`
+I install Browser-sync. An added benefit is being able to simultaneously
+view it on my phone and desktop screen while developing.
